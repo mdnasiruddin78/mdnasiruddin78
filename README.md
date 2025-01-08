@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Junior Web Developer Form Bangladesh!</h2>
+<h2 align="center">Junior Web Developer From Bangladesh!</h2>
 
 ###
 
