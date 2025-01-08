@@ -8,19 +8,23 @@
 
 ###
 
-<h2 align="center">Junior Web Developer From Bangladesh!</h2>
+<h2 align="left">Junior Web Developer Form Bangladesh!</h2>
 
 ###
 
-<h3 align="center">👩‍💻  About Me 👩‍💻</h3>
+---
+
+<h2 align="left">🎨About Me :</h2>
 
 ###
 
-<p align="center">I’m MD.NASIR UDDIN ANIK, a dedicated junior web developer focused on creating visually appealing, highly functional, and user-centered websites. My mission is to deliver seamless digital experiences that leave a lasting impression. Let’s build something remarkable together.</p>
+<p align="left">I’m MD.NASIR UDDIN ANIK, a dedicated junior web developer focused on creating visually appealing, highly functional, and user-centered websites. My mission is to deliver seamless digital experiences that leave a lasting impression. Let’s build something remarkable together.</p>
+
+---
 
 ###
 
-<h3 align="left">My Activities :</h3>
+<h2 align="left">🎯My Activities :</h2>
 
 ###
 
@@ -28,11 +32,11 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools 🛠</h3>
+<h2 align="left">🛠 Language and tools :</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -56,11 +60,11 @@
 
 ###
 
-<h3 align="center">Social Link</h3>
+<h2 align="left">Social Link :</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
   <a href="https://www.facebook.com/profile.php?id=100056252312818" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
@@ -72,11 +76,11 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mdnasiruddin78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnasiruddin78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
