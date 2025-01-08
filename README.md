@@ -16,9 +16,10 @@
 
 ---
 
-<h2 align="left">🎯My Activities :</h2>
-
-<h3 align="left">1.I am working now in mongodb atlas backend technolog.<br>2.In my free time i am watching youtube video.<br>3.many time i am exploring some advance programing language.</h3>
+### 🎯 My Activities
+- I am working now in mongodb atlas backend technology
+- In my free time i am watching youtube video
+- many time i am exploring some advance programing language
 
 ---
 
