@@ -2,18 +2,12 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-###
-
-<h1 align="left">MD.NASIR UDDIN ANIK 👋</h1>
-
-###
-
-<h2 align="left">Junior Web Developer Form Bangladesh!</h2>
-
-###
-
 ---
 
+<h1 align="left">MD.NASIR UDDIN ANIK 👋</h1>
+<h2 align="left">Junior Web Developer Form Bangladesh!</h2>
+
+---
 
 <h2 align="left">🎨About Me :</h2>
 
@@ -21,20 +15,13 @@
 
 ---
 
-
-###
-
 <h2 align="left">🎯My Activities :</h2>
-
-###
 
 <h3 align="left">1.I am working now in mongodb atlas backend technolog.<br>2.In my free time i am watching youtube video.</h3>
 
-###
+---
 
 <h2 align="left">🛠 Language and tools :</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -58,11 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
 <h2 align="left">Social Link :</h2>
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
@@ -74,7 +59,7 @@
   </a>
 </div>
 
-###
+---
 
 <h2 align="left">🔥   My Stats :</h2>
 
