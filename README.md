@@ -22,6 +22,13 @@
 
 ---
 
+### 🎯 Goals
+- Build Fullstack Web Application
+- Learn JavaScript Fundamentles
+- Make Beautifull Web Design
+
+---
+
 <h2 align="left">🛠 Language and tools :</h2>
 
 <div align="left">
