@@ -14,7 +14,7 @@
 ---
 
 ### 🎨 About Me :
-- I’m a dedicated web developer focused on creating visually appealing, highly functional, and user-centered websites. My mission is to deliver seamless digital experiences that leave a lasting impression. Let’s build something remarkable together.
+- I’m a dedicated Front Web Developer focused on creating visually appealing, highly functional, and user-centered websites. My mission is to deliver seamless digital experiences that leave a lasting impression. Let’s build something remarkable together.
 
 ---
 
