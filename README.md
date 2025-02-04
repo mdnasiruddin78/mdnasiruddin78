@@ -20,7 +20,7 @@
 
 ### 🎯 My Activities
 - I am working now in mongodb atlas backend technology
-- In my free time i am watching youtube video
+- I am exploring Next.js
 - many time i am exploring some advance programing language
 
 ---
